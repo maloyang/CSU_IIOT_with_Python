@@ -1,0 +1,7 @@
+#!/bin/bash
+
+cd /home/pi/pyenv/my-jupyter-env
+source ./bin/activate
+cd ./AI-Robot20181006_RPI3-Python-industry-talk
+#python mbtcp_demo3_mq.py
+python mb_demo3_mq.py
